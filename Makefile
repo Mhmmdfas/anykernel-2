@@ -2,7 +2,7 @@ NAME ?= KryPtoN
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := MIUI-PWR
+CODE := MIUI
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
