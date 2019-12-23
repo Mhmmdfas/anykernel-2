@@ -4,15 +4,15 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=KryPtoN Kernel telegram @Kry9toN
+kernel.string=Haha No
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=vince
-device.name2=
-device.name3=
-device.name4=
+device.name1=rolex
+device.name2=redmi4a
+device.name3=riva
+device.name4=redmi5a
 device.name5=
 supported.versions=
 '; } # end properties
